@@ -1,0 +1,12 @@
+com\journaldev\spring\service\PersonJobService.class
+com\journaldev\spring\dao\PersonJobDAOImpl.class
+com\journaldev\spring\dao\PersonJobDAO.class
+com\journaldev\spring\service\PersonJobServiceImpl.class
+com\journaldev\spring\service\PersonServiceImpl.class
+com\journaldev\spring\dao\PersonDAO.class
+com\journaldev\spring\dao\PersonDAOImpl.class
+com\journaldev\spring\model\PersonJob.class
+com\journaldev\spring\service\PersonService.class
+com\journaldev\spring\model\Person.class
+com\journaldev\spring\PersonJobController.class
+com\journaldev\spring\PersonController.class
